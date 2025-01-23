@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    background-image: linear-gradient(to right, #000000, #090970);
+}
+
+#root-div
+{
+    height: 180px;
+    width: 100%;
+    background-color: rgb(26, 2, 69);
+    margin: 0;
+    background-image: linear-gradient(to right, #000000, #090970);
+}
+
+#name
+{
+    font-size: 60px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+
+#info
+{
+    font-size: 20px;
+    color: hwb(57 27% 0%);
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+#sec1{
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    height: 150px;
+    width: 97%;
+    background-color: rgb(0, 0, 0);
+    margin-top: 50px;
+    padding-top: 20px;
+    border-radius: 10px;
+    border:solid 3px;
+    border-color: #619aa9;
+}
+
+#sec2{
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    height: 200px;
+    width: 97%;
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    padding-top: 20px;
+    border-radius: 10px;
+    border:solid 3px;
+    border-color: #619aa9;
+}
+#subhead{
+    font-size: 35px;
+    font-family:monospace;
+    color: rgb(212, 255, 0);
+    display: flex;
+    justify-content: center;
+}
+
+#desc{
+    font-size: 20px;
+    font-family:monospace;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content:center;
+    padding-top: 17px;
+    text-align: center;
+}
+
+.list
+{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family:monospace;
+    display: flex;
+    justify-content:center;
+    padding-top: 8px;
+}
+
+#sec3{
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    height: 160px;
+    width: 97%;
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    padding-top: 20px;
+    border-radius: 10px;
+    border:solid 3px;
+    border-color: #619aa9;
+}
